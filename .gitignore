@@ -1,0 +1,4 @@
+src/dotNET_Java/bin/*
+src/dotNET_Java/obj/*
+test/dotNET_Java_TEST/bin/*
+test/dotNET_Java_TEST/obj/*
